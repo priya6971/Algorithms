@@ -7,4 +7,5 @@ Standard Algorithms Implementation in Python Programming Language
 4. Searching Algorithms
 5. Greedy Algorithms
 6. Dynamic Programming
+7. String Matching Algorithms
 
